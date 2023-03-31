@@ -12,3 +12,16 @@
   border-bottom-right-radius: .25rem!important;
 }
 
+.btn:hover, .btn-primary:hover, .w-100:hover {
+  background: rgba(25,135,84,0.68);
+  border-radius: 10px;
+}
+
+.hover-1-description.font-weight-light {
+}
+
+.hover-1-description.font-weight-light.mb-020 {
+  color: #ffffff;
+  font-style: normal;
+}
+

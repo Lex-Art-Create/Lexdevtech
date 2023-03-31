@@ -1,1 +1,1 @@
-{"icons":[{"src":"/assets/img/Oma.png","type":"image/png","sizes":"1353x505"},{"src":"/assets/img/Oma.png","type":"image/png","sizes":"1353x505"}],"display":"fullscreen"}
+{"short_name":"OMA","name":"Omahairstop","icons":[{"src":"/assets/img/Oma.png","type":"image/png","sizes":"1353x505","purpose":"any maskable"},{"src":"/assets/img/Oma.png","type":"image/png","sizes":"1353x505","purpose":"any maskable"}],"start_url":"Index.html","display":"fullscreen"}
