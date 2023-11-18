@@ -148,3 +148,23 @@
   color: #ffffff;
 }
 
+.dispg:hover {
+  color: #053e13;
+}
+
+.dispg {
+    text-decoration: none;
+    color: black;
+}
+
+.sme {
+  background-color: #0a4318;
+  align-self: center;
+  font-family: monospace;
+  align-content:space-around;
+  text-align: center;
+  border-radius: 15px;
+  color: #ffffff;
+  padding: 30px;
+  border: none;
+}
